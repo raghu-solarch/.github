@@ -124,6 +124,62 @@
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
 
+## Achievements
+
+- Architected **end-to-end Azure landing zones** with automated provisioning using **Terraform modules** and **Azure DevOps pipelines**.  
+- Reduced environment setup time from **weeks to hours** through complete **Infrastructure as Code (IaC)** automation.  
+- Built **enterprise-grade CI/CD pipelines** integrating **Azure DevOps**, **GitHub Actions**, and **Jenkins**, achieving **zero-downtime deployments**.  
+- Delivered **99.99% uptime** and **automated scaling** for production workloads using **AKS**, **Application Gateway**, and **Traffic Manager**.  
+- Implemented **FinOps controls** using **Azure Cost Management** and **automation scripts**, reducing cloud spend by **30–40%**.  
+- Spearheaded migration of on-prem workloads to **multi-cloud environments (Azure, AWS, GCP)** with unified security and monitoring.  
+- Embedded **DevSecOps** practices with **Trivy**, **SonarQube** integrations in CI/CD pipelines.  
+- Enhanced observability using **Prometheus**, **Grafana**, **Elastic**, **Splunk** and **AppDynamics**, improving incident resolution time by **50%**.  
+- Mentored teams on **Terraform**, **Kubernetes**, and **DevOps** workflows, fostering a strong DevOps culture and knowledge base.
+
+## Speaking & Webinars
+
+- 22 Sep 2025 - Bright Minds Future Ready: Global Career Lift Off 2025 - [CareerByteCode](https://www.linkedin.com/company/careerbytecode)
+- 18 Jul 2025 - Azure VMs + Terraform = Automation Superpower Live Workshop -  [Webinar](https://www.youtube.com/watch?v=r5Oht5FK_p8)
+
+## Mentorship & Community
+
+- [CareerByteCode](https://www.linkedin.com/company/careerbytecode) - Cloud Solutions Mentor (Volunteer) · Apr 2025 – Present  
+
+  Volunteer Cloud Solutions Architect & DevOps Consultant mentoring early-career engineers in cloud architecture, infrastructure as code, and DevOps.
+
+  Key contributions:
+  - Led live workshops & demos.  
+  - Mentored engineers on Azure/AWS/GCP, Terraform, Ansible, and Kubernetes.  
+  - Created hands-on lab materials and sample repos for practical learning.  
+  - Advised on cloud cost optimisation, disaster recovery planning, and security best practices.
+
+  Technologies: Azure · AWS · GCP · Kubernetes · Docker · Terraform · Ansible · Jenkins · observability & security tools.
+
+
+## Let's Collaboration
+
+I’m passionate about driving innovation in **AI** and **cloud-native technologies**.  
+If you’re interested in exploring new ideas, building scalable solutions, or pushing the boundaries of what **cloud and AI** can achieve together — let’s connect and collaborate.
+
+I actively collaborate with **product companies**, **startups**, and **engineering communities** to test, validate, and showcase innovative **DevOps**, **AI**, and **cloud automation tools** through **real-world use cases**.
+
+Through my community, **CareerByteCode**, we:
+- Help **product teams** validate new cloud and DevOps tools in **live enterprise-like environments**.  
+- Conduct **hands-on workshops**, **local meetups**, and **online technical sessions** to demonstrate tool capabilities.  
+- Provide **real implementation feedback** from practicing engineers, architects, and students.  
+- Publish **use-case-driven blogs**, **videos**, and **case studies** that highlight how emerging tools solve real-world challenges.  
+- Support **open-source collaborations** and **early product testing** for startups looking to refine or scale their solutions.  
+
+I’m always open to:
+- **Co-creating solutions** with fellow cloud architects, developers, and AI enthusiasts.  
+- Partnering with **product companies** exploring **DevOps automation**, **AI-driven cloud management**, or **FinOps optimization**.  
+- Engaging with **academic or professional communities** to share knowledge and mentor aspiring engineers.  
+
+Let’s collaborate to build smarter, faster, and more secure **cloud-native ecosystems** — where **innovation meets real-world impact**.
+
+
+
+
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=raghu-solarch&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
