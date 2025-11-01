@@ -52,9 +52,28 @@
   <img alt="Certified ScrumMaster®" src="https://bcert.me/bc/html/img/badges/generated/badge-7227.png" width="120" /></a>
 </p>
 
+# Let's Collaboration
 
+I’m passionate about driving innovation in **AI** and **cloud-native technologies**.  If you’re interested in exploring new ideas, building scalable solutions, or pushing the boundaries of what **cloud and AI** can achieve together — let’s connect and collaborate. I actively collaborate with **product companies**, **startups**, and **engineering communities** to test, validate, and showcase innovative **DevOps**, **AI**, and **cloud automation tools** through **real-world use cases**.
+
+I’m always open to:  
+- **Helping product teams** validate new **Cloud** and **DevOps** tools in **enterprise-like lab environments**.  
+- **Conducting hands-on workshops**, **local meetups**, and **online sessions** to showcase tool capabilities and real-world best practices.  
+- **Providing implementation feedback** from practicing engineers, architects, and students who test and apply these tools in active environments.  
+- **Publishing use-case blogs**, **technical videos**, and **case studies** that demonstrate how emerging technologies solve real engineering challenges.  
+- **Supporting open-source collaborations** and **early product testing** for startups refining or scaling their cloud-native solutions.  
+- **Co-creating solutions** with fellow **architects**, **developers**, and **AI innovators** to push the boundaries of automation and scalability.  
+- **Partnering with product companies** exploring **DevOps automation**, **AI-driven cloud management**, or **FinOps optimization**.  
+- **Engaging with academic and professional communities** to mentor and guide the next generation of engineers.  
+
+I’m part of a thriving community — **[CareerByteCode](https://www.linkedin.com/company/careerbytecode)** — where we collaborate to help innovators and organizations achieve greater **reach, validation, and real-world impact**.  
+
+<br>
 
 # Tech Stack:
+<details>
+  <summary><b>&nbsp;Tech&nbsp;&nbsp;Stack</b></summary>
+  <br/>
 
 ### Cloud & DevOps Platforms
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -123,10 +142,13 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+</details>
 <br>
 
 ## Achievements
-
+<details>
+  <summary><b>&nbsp;Achievements</b></summary>
+  <br/>
 - Architected **end-to-end Azure landing zones** with automated provisioning using **Terraform modules** and **Azure DevOps pipelines**.  
 - Reduced environment setup time from **weeks to hours** through complete **Infrastructure as Code (IaC)** automation.  
 - Built **enterprise-grade CI/CD pipelines** integrating **Azure DevOps**, **GitHub Actions**, and **Jenkins**, achieving **zero-downtime deployments**.  
@@ -136,16 +158,22 @@
 - Embedded **DevSecOps** practices with **Trivy**, **SonarQube** integrations in CI/CD pipelines.  
 - Enhanced observability using **Prometheus**, **Grafana**, **Elastic**, **Splunk** and **AppDynamics**, improving incident resolution time by **50%**.  
 - Mentored teams on **Terraform**, **Kubernetes**, and **DevOps** workflows, fostering a strong DevOps culture and knowledge base.
+</details>
 <br>
 
 ## Speaking & Webinars
-
+<details>
+  <summary><b>&nbsp;Speaking & Webinars</b></summary>
+  <br/>
 - 22 Sep 2025 - Bright Minds Future Ready: Global Career Lift Off 2025 - [CareerByteCode](https://www.linkedin.com/company/careerbytecode)
 - 18 Jul 2025 - Azure VMs + Terraform = Automation Superpower Live Workshop -  [Webinar](https://www.youtube.com/watch?v=r5Oht5FK_p8)
+</details>
 <br>
 
 ## Mentorship & Community
-
+<details>
+  <summary><b>&nbsp;Mentoship & Community</b></summary>
+  <br/>
 - [CareerByteCode](https://www.linkedin.com/company/careerbytecode) - Cloud Solutions Mentor (Volunteer) · Apr 2025 – Present  
 
   Volunteer Cloud Solutions Architect & DevOps Consultant mentoring early-career engineers in cloud architecture, infrastructure as code, and DevOps.
@@ -157,29 +185,15 @@
   - Advised on cloud cost optimisation, disaster recovery planning, and security best practices.
 
   Technologies: Azure · AWS · GCP · Kubernetes · Docker · Terraform · Ansible · Jenkins · observability & security tools.
-
+</details>
 <br>
 
-## Let's Collaboration
 
-I’m passionate about driving innovation in **AI** and **cloud-native technologies**.  If you’re interested in exploring new ideas, building scalable solutions, or pushing the boundaries of what **cloud and AI** can achieve together — let’s connect and collaborate. I actively collaborate with **product companies**, **startups**, and **engineering communities** to test, validate, and showcase innovative **DevOps**, **AI**, and **cloud automation tools** through **real-world use cases**.
 
-I’m always open to:  
-- **Helping product teams** validate new **Cloud** and **DevOps** tools in **enterprise-like lab environments**.  
-- **Conducting hands-on workshops**, **local meetups**, and **online sessions** to showcase tool capabilities and real-world best practices.  
-- **Providing implementation feedback** from practicing engineers, architects, and students who test and apply these tools in active environments.  
-- **Publishing use-case blogs**, **technical videos**, and **case studies** that demonstrate how emerging technologies solve real engineering challenges.  
-- **Supporting open-source collaborations** and **early product testing** for startups refining or scaling their cloud-native solutions.  
-- **Co-creating solutions** with fellow **architects**, **developers**, and **AI innovators** to push the boundaries of automation and scalability.  
-- **Partnering with product companies** exploring **DevOps automation**, **AI-driven cloud management**, or **FinOps optimization**.  
-- **Engaging with academic and professional communities** to mentor and guide the next generation of engineers.  
-
-I’m part of a thriving community — **[CareerByteCode](https://www.linkedin.com/company/careerbytecode)** — where we collaborate to help innovators and organizations achieve greater **reach, validation, and real-world impact**.  
-
-<br>
-
-## 📝 Featured Substack Articles  
-
+## Featured Substack Articles  
+<details>
+  <summary><b>&nbsp;Featured Substack Articles</b></summary>
+  <br/>
 | Topic | 🔗 Link |
 |----------|---------|
 | Infrastructure-as-Code in Action: Automated NGINX Setup on Ubuntu via Ansible | [Read here](https://open.substack.com/pub/careerbytecode/p/devops-fast-track-setup-nginx-web-servers-on-azure-ubuntu-vms-using-ansible?r=5byh30&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false) |
@@ -191,7 +205,7 @@ I’m part of a thriving community — **[CareerByteCode](https://www.linkedin.c
 | Ansible-Powered Automation: Installing and Configuring Docker Across Multi-OS Server Environments | [Read here](https://open.substack.com/pub/careerbytecode/p/ansible-powered-automation-installing-and-configuring-docker-across-multi-os-server-environments?r=5byh30&utm_campaign=post&utm_medium=web) |
 | Automating Cron Job Scheduling Across Multi-Server Environments with Ansible | [Read here](https://open.substack.com/pub/careerbytecode/p/automating-cron-job-scheduling-across-multi-server-environments-with-ansible?r=5byh30&utm_campaign=post&utm_medium=web) |
 | Automate EC2 Deployment on AWS Using Terraform Variables | [Read here](https://open.substack.com/pub/careerbytecode/p/automate-ec2-deployment-on-aws-using-terraform-variables?r=5byh30&utm_campaign=post&utm_medium=web) |
-
+</details>  
 
 <br>
 
