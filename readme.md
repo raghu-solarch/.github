@@ -122,7 +122,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-
+<br>
 
 ## Achievements
 
@@ -135,11 +135,13 @@
 - Embedded **DevSecOps** practices with **Trivy**, **SonarQube** integrations in CI/CD pipelines.  
 - Enhanced observability using **Prometheus**, **Grafana**, **Elastic**, **Splunk** and **AppDynamics**, improving incident resolution time by **50%**.  
 - Mentored teams on **Terraform**, **Kubernetes**, and **DevOps** workflows, fostering a strong DevOps culture and knowledge base.
+<br>
 
 ## Speaking & Webinars
 
 - 22 Sep 2025 - Bright Minds Future Ready: Global Career Lift Off 2025 - [CareerByteCode](https://www.linkedin.com/company/careerbytecode)
 - 18 Jul 2025 - Azure VMs + Terraform = Automation Superpower Live Workshop -  [Webinar](https://www.youtube.com/watch?v=r5Oht5FK_p8)
+<br>
 
 ## Mentorship & Community
 
@@ -155,28 +157,25 @@
 
   Technologies: Azure · AWS · GCP · Kubernetes · Docker · Terraform · Ansible · Jenkins · observability & security tools.
 
+<br>
 
 ## Let's Collaboration
 
-I’m passionate about driving innovation in **AI** and **cloud-native technologies**.  
-If you’re interested in exploring new ideas, building scalable solutions, or pushing the boundaries of what **cloud and AI** can achieve together — let’s connect and collaborate.
+I’m passionate about driving innovation in **AI** and **cloud-native technologies**.  If you’re interested in exploring new ideas, building scalable solutions, or pushing the boundaries of what **cloud and AI** can achieve together — let’s connect and collaborate. I actively collaborate with **product companies**, **startups**, and **engineering communities** to test, validate, and showcase innovative **DevOps**, **AI**, and **cloud automation tools** through **real-world use cases**.
 
-I actively collaborate with **product companies**, **startups**, and **engineering communities** to test, validate, and showcase innovative **DevOps**, **AI**, and **cloud automation tools** through **real-world use cases**.
+I’m always open to:  
+- **Helping product teams** validate new **Cloud** and **DevOps** tools in **enterprise-like lab environments**.  
+- **Conducting hands-on workshops**, **local meetups**, and **online sessions** to showcase tool capabilities and real-world best practices.  
+- **Providing implementation feedback** from practicing engineers, architects, and students who test and apply these tools in active environments.  
+- **Publishing use-case blogs**, **technical videos**, and **case studies** that demonstrate how emerging technologies solve real engineering challenges.  
+- **Supporting open-source collaborations** and **early product testing** for startups refining or scaling their cloud-native solutions.  
+- **Co-creating solutions** with fellow **architects**, **developers**, and **AI innovators** to push the boundaries of automation and scalability.  
+- **Partnering with product companies** exploring **DevOps automation**, **AI-driven cloud management**, or **FinOps optimization**.  
+- **Engaging with academic and professional communities** to mentor and guide the next generation of engineers.  
 
-Through my community, **CareerByteCode**, we:
-- Help **product teams** validate new cloud and DevOps tools in **live enterprise-like environments**.  
-- Conduct **hands-on workshops**, **local meetups**, and **online technical sessions** to demonstrate tool capabilities.  
-- Provide **real implementation feedback** from practicing engineers, architects, and students.  
-- Publish **use-case-driven blogs**, **videos**, and **case studies** that highlight how emerging tools solve real-world challenges.  
-- Support **open-source collaborations** and **early product testing** for startups looking to refine or scale their solutions.  
+I’m part of a thriving community — **[CareerByteCode](https://www.linkedin.com/company/careerbytecode)** — where we collaborate to help innovators and organizations achieve greater **reach, validation, and real-world impact**.  
 
-I’m always open to:
-- **Co-creating solutions** with fellow cloud architects, developers, and AI enthusiasts.  
-- Partnering with **product companies** exploring **DevOps automation**, **AI-driven cloud management**, or **FinOps optimization**.  
-- Engaging with **academic or professional communities** to share knowledge and mentor aspiring engineers.  
-
-Let’s collaborate to build smarter, faster, and more secure **cloud-native ecosystems** — where **innovation meets real-world impact**.
-
+<br>
 
 ## Featured LinkedIn Posts  
 
@@ -284,7 +283,7 @@ Let’s collaborate to build smarter, faster, and more secure **cloud-native eco
 </details>
 
 
-
+<br>
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=raghu-solarch&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
