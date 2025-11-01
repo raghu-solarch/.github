@@ -193,7 +193,7 @@ I’m part of a thriving community — **[CareerByteCode](https://www.linkedin.c
 ## Featured Substack Articles  
 <details>
   <summary><b>&nbsp;Featured Substack Articles</b></summary>
-  <br/>
+  
 | Topic | 🔗 Link |
 |----------|---------|
 | Infrastructure-as-Code in Action: Automated NGINX Setup on Ubuntu via Ansible | [Read here](https://open.substack.com/pub/careerbytecode/p/devops-fast-track-setup-nginx-web-servers-on-azure-ubuntu-vms-using-ansible?r=5byh30&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false) |
