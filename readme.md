@@ -174,7 +174,7 @@ I’m part of a thriving community — **[CareerByteCode](https://www.linkedin.c
 <details>
   <summary><b>&nbsp;Mentoship & Community</b></summary>
   
-- [CareerByteCode](https://www.linkedin.com/company/careerbytecode) - Cloud Solutions Mentor (Volunteer) · Apr 2025 – Present  
+- [CareerByteCode](https://www.linkedin.com/company/careerbytecode) - Cloud Solutions Architect & DevOps Mentor (Volunteer) · Apr 2025 – Present  
 
   Volunteer Cloud Solutions Architect & DevOps Consultant mentoring early-career engineers in cloud architecture, infrastructure as code, and DevOps.
 
