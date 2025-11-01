@@ -178,6 +178,111 @@ I’m always open to:
 Let’s collaborate to build smarter, faster, and more secure **cloud-native ecosystems** — where **innovation meets real-world impact**.
 
 
+## Featured LinkedIn Posts  
+
+> A curated collection of my technical posts on **Azure**, **DevOps**, **Docker**, **Linux**, and **Kubernetes** — shared through my community [**CareerByteCode**](https://www.linkedin.com/company/careerbytecode).  
+> Click on each category below to explore detailed guides and hands-on real-world implementations.
+
+---
+
+<details>
+<summary><b>Cloud & Azure Fundamentals</b></summary>
+
+| Topic | Link |
+|---|---|
+| Cloud Basics | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7338777095910604818) |
+| Azure Introduction | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7339139460879527936) |
+| Resource Groups, VNet & Subnets | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7340226641614262273) |
+| Route Tables | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7340589021623918593) |
+| NSG & ASG | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7340951430737891328) |
+| Load Balancer & Application Gateway | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7341313785443307520) |
+| Basic vs Standard Public IP | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7341427103822659586) |
+| DNS Firewall & WAF | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7341676186361569281) |
+
+</details>
+
+---
+
+<details>
+<summary><b>Networking & Traffic Management</b></summary>
+
+| Topic | Link |
+|---|---|
+| VNet Gateways & Peerings | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7342763344841359360) |
+| Types of VNet Peering | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7343131651612229632) |
+| CDN & ExpressRoute | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7343493635931348992) |
+| Traffic Manager Overview | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7348572867170660352) |
+| Priority Routing | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7348932502918504448) |
+| Weighted Routing | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7349301456472064000) |
+| Performance Routing | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7350381062763532289) |
+| Geographic Routing | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7350752943681196033) |
+
+</details>
+
+---
+
+<details>
+<summary><b>Storage, Compute & App Services</b></summary>
+
+| Topic | Link |
+|---|---|
+| Azure Storage | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7343850940724060160) |
+| VMs, VMSS & Scaling | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7344212898283515904) |
+| App Service | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7345332783797456896) |
+| Create VM in Portal | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7345670011593625600) |
+| Azure Load Balancer | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7351467083320197121) |
+
+</details>
+
+---
+
+<details>
+<summary><b>Linux & Git Essentials</b></summary>
+
+| Topic | Link |
+|---|---|
+| Linux Part 1 | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7353310156782231552) |
+| Linux Part 2 | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7353639146168471553) |
+| Linux Part 3 | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7354004922679414785) |
+| Git Essentials | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7354367310368817153) |
+
+</details>
+
+---
+
+<details>
+<summary><b>Docker Series (Day 1–9 + Hands-On)</b></summary>
+
+| Topic | Link |
+|---|---|
+| Docker Intro | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7355495089688776704) |
+| Installing Docker | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7355821757338972161) |
+| Day 1 | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7356183356297953280) |
+| Day 2 | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7356549195601768450) |
+| Day 3 | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7356911644041515009) |
+| Day 4 | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7357998758816591872) |
+| Day 5 | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7358355329744547840) |
+| Day 6 | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7358723559113834497) |
+| Day 7 | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7358798998305992705) |
+| Day 8 | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7359088239170736128) |
+| Day 9 | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7359444188645511168) |
+| Docker Hands-On | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7360539862535467008) |
+| Docker + ACR Integration | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7360905469256749057) |
+
+</details>
+
+---
+
+<details>
+<summary><b>Kubernetes Series</b></summary>
+
+| Topic | Link |
+|---|---|
+| Kubernetes Basics & Architecture | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7373246304640004096) |
+| Kubernetes Advanced | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7376898710435328000) |
+
+</details>
+
 
 
 
@@ -186,10 +291,10 @@ Let’s collaborate to build smarter, faster, and more secure **cloud-native eco
 ![](https://nirzak-streak-stats.vercel.app/?user=raghu-solarch&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raghu-solarch&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=raghu-solarch&theme=vision-friendly-dark&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=raghu-solarch&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
