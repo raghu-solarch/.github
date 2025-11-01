@@ -45,12 +45,10 @@
 
 # Certifications & Badges
 <p align="center">
-  <a href="https://learn.microsoft.com/en-us/users/karthiksekar/credentials/59e71c2365cad058"><img alt="Microsoft Certified Expert" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="120" /></a>
-  <a href="https://learn.microsoft.com/en-us/users/karthiksekar/credentials/c930cf33b9479f54"><img alt="Microsoft Certified Associate" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="120" /></a>
-  <a href="https://www.credly.com/badges/f4540a58-e07d-49ab-af7d-1a08f50bc78d/linked_i"><img alt="Microsoft Certified: Azure Fundamentals" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-Fundamentals-badge.svg" width="120" /></a>
-  <a href="https://bcert.me/stwilbqzj"><img alt="Certified ScrumMaster®" src="https://bcert.me/bc/html/img/badges/generated/badge-7227.png" width="120" /></a>
-  <a href="https://www.credly.com/badges/5bcbf6de-947a-4a11-8b35-9bb6dca39d93/public_url">
-  <img alt="ITIL Foundation Certificate in IT Service Management" src="https://images.credly.com/size/340x340/images/42992295-0ee2-4527-982d-e6d9a66fca23/AXELOS-ITIL-Foundation.png" width="120" />
+  <img alt="Microsoft Certified Expert" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="120" /></a>
+  <img alt="Microsoft Certified Associate" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="120" /></a>
+  <img alt="Microsoft Certified: Azure Fundamentals" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-Fundamentals-badge.svg" width="120" /></a>
+  <img alt="Certified ScrumMaster®" src="https://bcert.me/bc/html/img/badges/generated/badge-7227.png" width="120" /></a>
 </p>
 
 
