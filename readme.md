@@ -8,6 +8,7 @@
   <a href="https://github.com/architectraghu"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-architectraghu-181717?logo=github&logoColor=white" /></a>
   <a href="https://dev.to/architectraghu"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-architectraghu-0A66C2?logo=dev.to&logoColor=white" /></a>
   <a href="https://www.instagram.com/architectraghu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-architectraghu-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="https://substack.com/@architectraghu"><img alt="Substack" src="https://img.shields.io/badge/Substack-@architectraghu-FF6719?logo=substack&logoColor=white" /></a>
 </p>
 
 
@@ -174,6 +175,23 @@ I’m always open to:
 - **Engaging with academic and professional communities** to mentor and guide the next generation of engineers.  
 
 I’m part of a thriving community — **[CareerByteCode](https://www.linkedin.com/company/careerbytecode)** — where we collaborate to help innovators and organizations achieve greater **reach, validation, and real-world impact**.  
+
+<br>
+
+## 📝 Featured Substack Articles  
+
+| Topic | 🔗 Link |
+|----------|---------|
+| Infrastructure-as-Code in Action: Automated NGINX Setup on Ubuntu via Ansible | [Read here](https://open.substack.com/pub/careerbytecode/p/devops-fast-track-setup-nginx-web-servers-on-azure-ubuntu-vms-using-ansible?r=5byh30&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false) |
+| No More Hardcoded Secrets: Azure Key Vault + AKS Kubernetes Done Right | [Read here](https://open.substack.com/pub/careerbytecode/p/secrets-made-easy-how-to-sync-azure-key-vault-with-kubernetes-using-external-secrets-operator?r=5byh30&utm_campaign=post&utm_medium=web) |
+| Kubernetes Rolling Updates for Backend Services: Ensure 24/7 Availability During Deployments | [Read here](https://open.substack.com/pub/careerbytecode/p/mastering-azure-kubernetes-rolling-updates-how-to-deploy-backend-pods-without-a-second-of-downtime?r=5byh30&utm_campaign=post&utm_medium=web) |
+| Compliance-First Architecture: Implementing Azure Private Endpoints for Storage | [Read here](https://open.substack.com/pub/careerbytecode/p/compliance-first-architecture-implementing-azure-private-endpoints-for-storage?r=5byh30&utm_campaign=post&utm_medium=web) |
+| Secrets Safe, 3 Tier Deployments Fast: Terraform + Azure Key Vault Complete Hands-on | [Read here](https://open.substack.com/pub/careerbytecode/p/terraform-modularize-3-tier-architecture-deployment-with-secure-secrets-management-and-github-actions-automation?r=5byh30&utm_campaign=post&utm_medium=web) |
+| How to Manage Multi-Environment Configs Using Jinja2 and Ansible | [Read here](https://open.substack.com/pub/careerbytecode/p/how-to-manage-multi-environment-configs-using-jinja2-and-ansible?r=5byh30&utm_campaign=post&utm_medium=web) |
+| Ansible-Powered Automation: Installing and Configuring Docker Across Multi-OS Server Environments | [Read here](https://open.substack.com/pub/careerbytecode/p/ansible-powered-automation-installing-and-configuring-docker-across-multi-os-server-environments?r=5byh30&utm_campaign=post&utm_medium=web) |
+| Automating Cron Job Scheduling Across Multi-Server Environments with Ansible | [Read here](https://open.substack.com/pub/careerbytecode/p/automating-cron-job-scheduling-across-multi-server-environments-with-ansible?r=5byh30&utm_campaign=post&utm_medium=web) |
+| Automate EC2 Deployment on AWS Using Terraform Variables | [Read here](https://open.substack.com/pub/careerbytecode/p/automate-ec2-deployment-on-aws-using-terraform-variables?r=5byh30&utm_campaign=post&utm_medium=web) |
+
 
 <br>
 
